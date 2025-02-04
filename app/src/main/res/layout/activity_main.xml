@@ -80,7 +80,7 @@
                 <net.skyscanner.backpack.text.BpkText
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="JFK"
+                    android:text="EDI"
                     android:textSize="22sp"
                     android:textColor="@android:color/black"
                     style="@style/bpkTextHeading1" />
